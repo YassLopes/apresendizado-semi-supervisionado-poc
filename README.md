@@ -1,4 +1,4 @@
-# Aprendizado Semi-Supervisionado: Uma Prova de Conceito
+# Aprendizado Semi-Supervisionado: Demonstração
 
 ## O que é Aprendizado Semi-Supervisionado?
 
